@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=NHFutures API)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=NHFutures_API)
